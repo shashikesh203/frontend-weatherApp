@@ -1,0 +1,19 @@
+body{
+    /* background-image: url('img-weather.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+.row{
+    text-align: center;
+}
+.wrapper{
+    background-image: url('img-weather.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    text-align: center;
+   
+}
+.cityName{
+    margin-top: 100px;
+}
